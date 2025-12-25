@@ -150,9 +150,7 @@ Please add tests for significant changes.
 
 This project currently has no license specified. Add a LICENSE file or update this README with the chosen license.
 
+
 ---
 
-If you want, I can also:
-- Add a basic GitHub Actions workflow to build and push the image to ECR
-- Add a LICENSE file (MIT/Apache-2.0/etc.)
-- Customize README with exact commands for your AWS account (if you provide account ID and preferred region)
+
